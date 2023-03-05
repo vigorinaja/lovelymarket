@@ -1,11 +1,11 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "GPUn3MjGXaWSg8YiKohvPk7wJAZe2iDNmcdMsj5BXHDC"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_1dPlEnz9KVO7gbiQOv1QpUXJjbNRZZ9CXiM",
+  "serviceFee": 3,
+  "currencyOption": "USDC",
+  "name": "LoveltMark",
+  "logo": "https://collections.mirrorworld.fun/1678027337993-download.png"
 }
